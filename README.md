@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Nemezys2k#5745)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](carvalho2604@outlook.com)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
----> Skills me📚
+---> Skills📚
 <div style="display: inline_block;">
         <img aling="center"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="html5">
         <img aling="center"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="html5">
