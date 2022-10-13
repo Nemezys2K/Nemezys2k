@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Matheus Carvalho and I'm DEV jr Front-END 👋
 
 <!--
 **Nemezys2K/Nemezys2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
