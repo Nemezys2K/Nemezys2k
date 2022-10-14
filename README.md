@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Nemezys2k#5745)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](carvalho2604@outlook.com)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <a href="https://github.com/Nemezys2k">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloBrazolim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBrazolim&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
 <br>
 ---> Skills📚
 <div style="display: inline_block;">
