@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <br>
 <div align="left">
   <a href="https://github.com/Nemezys2k">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloBrazolim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBrazolim&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nemezys2k&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemezys2k&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 <br>
